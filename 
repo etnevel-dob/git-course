@@ -1,0 +1,43 @@
+[33mcommit 36d84c0da799d1df1d6cf3e7aa4547d404930ccf[m[33m ([m[1;36mHEAD -> [m[1;32mfeature2[m[33m, [m[1;31morigin/feature2[m[33m)[m
+Author: Bod Levente <bod.levente@gmail.com>
+Date:   Tue Apr 2 12:00:16 2019 +0200
+
+    newLine feature2
+
+[33mcommit 02421249691bd2596971f5e8ae56cd027f415857[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Bod Levente <bod.levente@gmail.com>
+Date:   Tue Apr 2 10:53:16 2019 +0200
+
+    commit all
+
+[33mcommit fdba192e18eb8760a42557d5e1b688647b0d9305[m
+Author: Bod Levente <bod.levente@gmail.com>
+Date:   Mon Apr 1 16:11:52 2019 +0200
+
+    Text message added
+
+[33mcommit fcd8440604f31710540b2f91d38f00a5204b280b[m
+Author: Bod Levente <bod.levente@gmail.com>
+Date:   Mon Apr 1 15:49:32 2019 +0200
+
+    Horizontal ruler added
+
+[33mcommit 2d39ddd90b5eec309af80985d4811c95aed8a737[m
+Author: Bod Levente <bod.levente@gmail.com>
+Date:   Mon Apr 1 14:49:56 2019 +0200
+
+    Revert "Modification added"
+    
+    This reverts commit 677fb074aae2e0ee8a36897ee0bbe1136d5a9bf7.
+
+[33mcommit 677fb074aae2e0ee8a36897ee0bbe1136d5a9bf7[m
+Author: Bod Levente <bod.levente@gmail.com>
+Date:   Mon Apr 1 13:53:24 2019 +0200
+
+    Modification added
+
+[33mcommit 6aa304902afd13a058e0a4f106a9a0f9e7ab7412[m
+Author: etnevel-dob <bod.levente@gmail.com>
+Date:   Mon Apr 1 13:49:14 2019 +0200
+
+    Initial commit

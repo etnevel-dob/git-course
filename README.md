@@ -2,4 +2,4 @@
 ------------
 course2
 árvíztűrő tükörfúrógép
-feature2
+feature1
